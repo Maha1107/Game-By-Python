@@ -1,1 +1,1 @@
-# Game-By-Python
+# Rock-Paper-Scissors
